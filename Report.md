@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/safaleks/JAVA_vvedenie/issues/1
+[Отрицательное значение суммы двух положительных значений переменных](https://github.com/safaleks/JAVA_vvedenie/issues/1)
 
 ## Описание процесса тестирования
 
